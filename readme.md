@@ -58,7 +58,7 @@ My objective is to develop applications and cohesive, modern and modular multipl
 ### José do Rosário Velano University, Alfenas-MG
 
 **Bachelor’s degree in Computer Science** (2005-2010)  
-**MBA Project Management with a focus on IT** (2011-2012)
+**MBA Project Management with focus on IT** (2011-2012)
 
 ### Pluralsight, Australia
 
@@ -70,5 +70,6 @@ My objective is to develop applications and cohesive, modern and modular multipl
 
 ### DevSpeak Academy, Brazil
 
-**English with a focus on IT** (Jan 2024 - Present)
+**English with a focus on IT**
+
 
