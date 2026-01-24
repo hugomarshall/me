@@ -20,12 +20,16 @@ My objective is to develop applications and cohesive, modern and modular multipl
 - **ORM**: Entity Framework (MSSQL, Postgree, InMemory), Dapper
 - **Databases**: SQL Server, Oracle, SQLite, MongoDb
 - **Tools**: Azure DevOps, Git, SVN, Bitbucket, Docker
-- **Server**: Windows Server, IIS, Azure, Linux (basic), Docker
+- **Server**: Windows Server, IIS, Azure, Linux, Docker
 - **Project Management**: Agile methodologies (Scrum, Agile, Kanban)
 - **Cloud**: AWS Storage and Firewall, Azure (main resources)
 - **Languages**: English (Advanced), Portuguese (Native), Spanish (Basic)
 
 ## Experience
+
+### Enghouse Systems
+
+**.Net Senior Software engineer (Oct 2024 - Present)**
 
 ### Terra Consultoria Empresarial Ltda - ME, Alfenas - MG
 
@@ -67,3 +71,4 @@ My objective is to develop applications and cohesive, modern and modular multipl
 ### DevSpeak Academy, Brazil
 
 **English with a focus on IT** (Jan 2024 - Present)
+
